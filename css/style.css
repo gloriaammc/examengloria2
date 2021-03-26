@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@200;700&display=swap');
+body{
+font-family: Catamaran;
+	color:#898989;
+
+}
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+header{
+	background-color: #fff;
+}
+#hero-slides .btn{
+	background-color: #fff;
+	padding: 10px 30px;
+	border-radius: 40px;
+	font-weight: 800px;
+	font-size: 18px;
+	text-transform: uppercase;
+	
+}
+#hero-slides{
+	padding: 30px 0;
+	padding-bottom: 30px;
+}
+#hero-slides h1{
+	font-size: 60px;
+}
+#hero-slides .d-block{
+	margin: 10px 0;
+}
+#conferences{
+	text-align: center;
+	padding: 35px;
+	padding-bottom: 90px;
+}
+#conferences h3{
+	padding: 28px 0;
+	color: #000;
+}
+#conferences h2{
+	 padding-bottom: 20px;
+	color: var(--color-negro);
+	
+}
+#conferences h4{
+	 padding-bottom: 20px;
+	font-weight: 1px;
+	font-size: 20px;
+}
+#conferences .btn{
+	
+	background-color: #fff;
+	color: #000;
+	border: #FFFFFF;
+	font-weight: 200;
+}
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+}
+
+#sponsors{
+	padding: 30px;
+	text-align: center;
+	padding-bottom: 40px;
+	
+}
+#sponsors .img-fluid{
+	padding: 30px;
+}
+#sponsors h2{
+	padding: 20px 0;
+	color: #000;
+	font-size: 40px;
+}
+#speakers{
+	text-align: center;
+	padding: 20px;
+	padding-bottom: 100px;
+}
+#speakers h6{
+	color: #000;
+	font-weight: 300px;
+	
+}
+#speakers h2{
+	padding-bottom: 20px;
+	color: #000;
+	font-size: 45px;
+}
+
+#speakers h3{
+	padding: 20px 0;
+	color: var(--color-negro);
+}
+#speakers .btn{
+	
+	background-color: #fff;
+	color: #000;
+	border: #FFFFFF;
+	font-weight: 200;
+}
+
+
+#meetings{
+	background-color: #282d33;
+	color:#fff;
+	padding: 100px 30px;
+	
+}
+#meetings .far, #meetings .fas{
+	font-size: 60px;
+	padding: 30px;
+}
+#meetings h5{
+	padding: 30px;
+	text-align: left;
+}
+
+#sponsors p{
+	padding-bottom: 50px;
+}
+
+
+
+footer{
+	background-color: #30363d;
+}
